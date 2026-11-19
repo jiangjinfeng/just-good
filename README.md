@@ -1,5 +1,10 @@
 # 分与合田径大赛 · 交互课件
 
+在线版（换台电脑直接打开，不用装任何东西）：
+https://jiangjinfeng.github.io/just-good/
+
+代码仓库：https://github.com/jiangjinfeng/just-good
+
 仿照抖音「山河静水」老师那块四人对战白板做的离线网页版：
 四个小动物同时在跑道上比赛，每答对一道「分与合」题就向前跑一格，谁先跑满谁冲线夺冠。
 
